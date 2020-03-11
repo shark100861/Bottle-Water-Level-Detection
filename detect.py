@@ -9,7 +9,7 @@ Enter the height of the bottle.
 If no bottle was detected, or the water level was not detected, try again by varying the light and the angle.
 If detected press q to exit the imageview.
 """
-
+import pandas
 import cv2
 import numpy as np
 import analytic as water_lvl
