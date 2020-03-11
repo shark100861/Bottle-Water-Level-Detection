@@ -13,7 +13,7 @@ If detected press q to exit the imageview.
 import cv2
 import numpy as np
 import analytic as water_lvl
-
+import torch
 print("WATER LEVEL AND BOTTLE WIDTH DETECTOR")
 print("Press Ctrl+C to stop script.")
 
